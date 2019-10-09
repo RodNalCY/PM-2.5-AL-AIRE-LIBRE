@@ -1,5 +1,5 @@
 //////////////////////////WIFI//CREDENCIALES///////////////////////////////////////////////////
-
+// HOLA RODNAL CABELLO YACOLCA POR GIT
 #include <ESP8266WiFi.h>
 #define STASSID ""
 #define STAPSK  ""
